@@ -1,0 +1,2 @@
+#!/bin/bash
+LC_COLLATE=en-us.utf-8 ls -xamp
